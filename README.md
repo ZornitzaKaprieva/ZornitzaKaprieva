@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZornitzaKaprieva
 - 👀 I’m interested in QA (Software Testing) 
-- 🌱 I’m currently learning QA - Software Testing	at Software Academy (Net IT)    
+- 🌱 I am currently attending QA (software testing) courses at Software Academy (Net IT)
 - 📫 How to reach me: +359 (0)885193475; zornitza.kaprieva@gmail.com
 
 <!---
