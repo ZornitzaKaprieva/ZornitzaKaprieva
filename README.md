@@ -1,6 +1,6 @@
 👋 Hi, I’m Zornitza Kaprieva.
 
-👀 I’m interested in QA (Software Testing).
+👀 I am interested in programming and software testing.
 
 📫 How to reach me: zornitza.kaprieva@gmail.com
 
